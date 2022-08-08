@@ -1,0 +1,6 @@
+## 파일 무시
+.ipynb_checkpoints/
+results/
+for_kaggle.ipynb_checkpoints
+*.csv
+for_kaggle.ipynb
